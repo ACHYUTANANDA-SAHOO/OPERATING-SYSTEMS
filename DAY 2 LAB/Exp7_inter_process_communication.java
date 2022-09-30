@@ -1,6 +1,3 @@
-// Java program to demonstrate inter-thread communication
-// (wait(), join() and notify())
-
 import java.util.Scanner;
 
 public class threadexample
